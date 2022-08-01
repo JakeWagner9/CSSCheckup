@@ -1,0 +1,21 @@
+.class1 {
+    border: 2px solid black;
+    background-color: aquamarine;
+    padding: 10px ;
+}
+
+.class2 {
+    border: 1px dashed black;
+    background-color: beige;
+    text: red;
+}
+
+#picture {
+   border: 10px solid black;
+   text-align: center; 
+   height: 100px;
+   width: 950px;
+   background-color: bisque;
+   font-style: italic;
+   
+}
